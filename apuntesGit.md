@@ -18,4 +18,5 @@
 * git config --global user.email
 
 * git log ->nos muestra el historial de los commit
-* 
+* git reset . -> deshace todos los cambios. 
+* git checkout -- name.js -> rehace lo cambios realizados. 
